@@ -1,0 +1,10 @@
+## 4.5.1
+
+Wartungs-Update mit 46 Mod-Updates.
+
+- Scorched Guns: Wechsel auf "Scorched Guns 2" (Unofficial Port, gleiche Mod-ID, alle Blöcke, Items und Waffen bleiben erhalten); WW1-Waffen-Addon auf 1.1.1
+- Lightman's Currency x FTB Hook 4.5.0, Create: Envelope 1.1.1, Envelope 0.8.1
+- JEI 19.70, Quark 488, FTB Chunks / Library / XMod Compat, Sophisticated Backpacks / Core, Iron's Lib 2.3.0
+- Create Radar 5.0.3, Create Tick Controller, Delightful Creators, Cultural Delights, Twilight Delight, Bumblezone, Friends & Foes, Vista, Amendments, Collective
+- Loot-Integrations-Addons, Reliable Recipes / Remover, CreativeCore, PuzzlesLib und weitere Bibliotheken aktualisiert
+- Neu: TarkovCraft Self-Interaction Fix (behebt den Absturz beim Benutzen des Exposure-Stativs)
