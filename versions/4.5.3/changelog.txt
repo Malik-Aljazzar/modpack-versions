@@ -1,0 +1,11 @@
+## 4.5.3
+
+Scorched Guns goes back to the original version.
+
+- Scorched Guns: back to ScorchedGuns 1.5 (the "Scorched Guns 2" unofficial port from 4.5.1 is reverted). This fixes the first-person arms and third-person gun poses with Fresh Animations. All Scorched Guns blocks, items and guns are kept
+- WW1 weapons addon back to 1.0.1 (the version made for ScorchedGuns 1.5)
+- **Heads-up:** the WW1 items added in 4.5.1 are removed and disappear from inventories, chests and the world: Double-Barreled Shotgun, Gewehr 98, Trench Gewehr 98, MG 08/15, Smith & Wesson .44, Tripod and the placed Hotchkiss Machine Gun, Maxim Gun and MG 08
+- No other gameplay changes
+
+### Mods
+- **Updated:** `scguns-1.0.8.jar -> ScorchedGuns-1.5.jar`, `scgunsww1-1.1.1-r.jar -> scgunsww1-1.0.1-r.jar`
