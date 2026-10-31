@@ -1,11 +1,11 @@
 ## 4.5.1
 
-Wartungs-Update mit 46 Mod-Updates.
+Maintenance update with 46 mod updates.
 
-- Scorched Guns: Wechsel auf "Scorched Guns 2" (Unofficial Port, gleiche Mod-ID, alle Blöcke, Items und Waffen bleiben erhalten); WW1-Waffen-Addon auf 1.1.1
+- Scorched Guns: switched to "Scorched Guns 2" (unofficial port, same mod id - all blocks, items and guns are kept); WW1 weapons addon updated to 1.1.1
 - Lightman's Currency x FTB Hook 4.5.0, Create: Envelope 1.1.1, Envelope 0.8.1
 - JEI 19.70, Quark 488, FTB Chunks / Library / XMod Compat, Sophisticated Backpacks / Core, Iron's Lib 2.3.0
 - Create Radar 5.0.3, Create Tick Controller, Delightful Creators, Cultural Delights, Twilight Delight, Bumblezone, Friends & Foes, Vista, Amendments, Collective
-- Loot-Integrations-Addons, Reliable Recipes / Remover, CreativeCore, PuzzlesLib und weitere Bibliotheken aktualisiert
-- Server: Fix für den Absturz beim Benutzen des Exposure-Stativs (TarkovCraft) läuft jetzt serverseitig
-- Larger Biomes ist nicht mehr im Pack enthalten (Lizenz erlaubt keine Weitergabe); es läuft weiter auf dem Server, für Spieler ändert sich nichts
+- Loot Integrations addons, Reliable Recipes / Remover, CreativeCore, PuzzlesLib and other libraries updated
+- Server: the fix for the crash when using the Exposure tripod (TarkovCraft) now runs on the server
+- Larger Biomes is no longer included in the pack (its license doesn't allow redistribution); it keeps running on the server, nothing changes for players
