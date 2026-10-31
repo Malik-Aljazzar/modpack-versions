@@ -7,4 +7,5 @@ Wartungs-Update mit 46 Mod-Updates.
 - JEI 19.70, Quark 488, FTB Chunks / Library / XMod Compat, Sophisticated Backpacks / Core, Iron's Lib 2.3.0
 - Create Radar 5.0.3, Create Tick Controller, Delightful Creators, Cultural Delights, Twilight Delight, Bumblezone, Friends & Foes, Vista, Amendments, Collective
 - Loot-Integrations-Addons, Reliable Recipes / Remover, CreativeCore, PuzzlesLib und weitere Bibliotheken aktualisiert
-- Neu: TarkovCraft Self-Interaction Fix (behebt den Absturz beim Benutzen des Exposure-Stativs)
+- Server: Fix für den Absturz beim Benutzen des Exposure-Stativs (TarkovCraft) läuft jetzt serverseitig
+- Larger Biomes ist nicht mehr im Pack enthalten (Lizenz erlaubt keine Weitergabe); es läuft weiter auf dem Server, für Spieler ändert sich nichts
