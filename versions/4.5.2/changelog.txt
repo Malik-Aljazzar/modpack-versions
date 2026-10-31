@@ -2,12 +2,13 @@
 
 New look for the menus and loading screens.
 
-- New Teachings of Zeta title screen: animated pixel-art background, slideshow and a server card that shows live status, player count and ping of server.mal-zeta.de - click it to join directly
-- Themed connect, world loading and progress screens to match the new menu
-- Added Drippy Loading Screen (client only): the game's startup loading screen now uses the Teachings of Zeta design
+- New Teachings of Zeta title screen: animated pixel-art scene by day, slideshow and a server card that shows live status, player count and ping of server.mal-zeta.de - click it to join directly
+- Loading screens get their own animated "Moonlit harbor" night scene; connect, world loading and progress screens match the new menu
+- Added Drippy Loading Screen (client only): the resource loading overlay during startup now uses the Teachings of Zeta design
+- New window icon
 - The pack no longer bundles Create schematics. If you want to keep the ones that came with earlier versions, back up your `schematics` folder before updating
 - NeoForge's own update check is turned off (the pack's update checker tells you about new pack versions)
 - No gameplay or world changes; the server only gets a config refresh
 
 ### Mods
-- **Neu:** `drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar`
+- **New:** `drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar`
