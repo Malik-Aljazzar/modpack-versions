@@ -1,0 +1,17 @@
+## 4.5.4
+
+Maintenance update: crash fix for the Exposure tripod, recipe book removed, 6 mod updates.
+
+- TarkovCraft Self-Interaction Crash Fix is now part of the pack: looking through an Exposure camera on a tripod no longer crashes the game (so far only the server had the fix, which could not protect the client side)
+- Not Enough Recipe Book (+ OctoLib): the vanilla recipe book is removed from crafting screens - use JEI/EMI instead. Saves memory and shortens login times on the server
+- Menu Audio Controls (client only): new audio controls for the title screen, groundwork for the upcoming menu music
+- Drippy Loading Screen early window (client only): groundwork for the upcoming loading screens, not active yet
+- **Heads-up (claims):** Lightman's Currency x FTB Hook 4.5.1 - free chunks are now only free to *claim*; they pay protection upkeep like every other chunk. Until now the first free chunks of a team were also left out of the upkeep bill
+- Create: Aeronautics Toolgun 0.3.7, Collective 8.72, Leaky 3.7, Sophisticated Backpacks 3.26.19 / Core 1.5.23
+- Chunk Activity Tracker removed (library mod nothing in the pack used)
+- No world changes; no server config changes
+
+### Mods
+- **New:** `Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar`, `OctoLib-NEOFORGE-0.6.2+1.21.jar`, `drippyloadingscreen-earlywindow_neoforge_3.1.5_MC_1.21.1.jar`, `menu_audio_controls-1.1.0.jar`, `tarkov_selfinteract_fix-1.0.0.jar`
+- **Updated:** `collective-1.21.1-8.71.jar -> collective-1.21.1-8.72.jar`, `create_aeronautics_toolgun-0.3.6.jar -> create_aeronautics_toolgun-0.3.7.jar`, `lc_ftb_hook-4.5.0.jar -> lc_ftb_hook-4.5.1.jar`, `leaky-1.21-3.6.jar -> leaky-1.21-3.7.jar`, `sophisticatedbackpacks-1.21.1-3.26.18.2235.jar -> sophisticatedbackpacks-1.21.1-3.26.19.2243.jar`, `sophisticatedcore-1.21.1-1.5.21.2439.jar -> sophisticatedcore-1.21.1-1.5.23.2446.jar`
+- **Removed:** `chunkactivitytracker-neoforge-1.0.1-1.21.1.jar`
