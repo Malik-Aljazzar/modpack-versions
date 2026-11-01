@@ -1,11 +1,12 @@
 ## 4.5.4
 
-Maintenance update: crash fix for the Exposure tripod, recipe book removed, 6 mod updates.
+New title screen with music, new loading screens, crash fix for the Exposure tripod, recipe book removed, 6 mod updates.
 
 - TarkovCraft Self-Interaction Crash Fix is now part of the pack: looking through an Exposure camera on a tripod no longer crashes the game (so far only the server had the fix, which could not protect the client side)
 - Not Enough Recipe Book (+ OctoLib): the vanilla recipe book is removed from crafting screens - use JEI/EMI instead. Saves memory and shortens login times on the server
-- Menu Audio Controls (client only): new audio controls for the title screen, groundwork for the upcoming menu music
-- Drippy Loading Screen early window (client only): groundwork for the upcoming loading screens, not active yet
+- New title screen: a music player with 7 tracks (Sweden, Aria Math, Cat, Moog City 2, Subwoofer Lullaby, Mice on Venus by Kalamity Music; Minecraft by Aether & Chaos - credits and links in the player) and a pixel-art scene per track that reacts to the music. Sweden starts on the first title screen after launch; the player controls appear when you hover over the strip at the bottom
+- New loading screens: a time-lapse of a town being built, from the first early loading window (Drippy early window module) through connect, world loading and progress screens
+- Menu Audio Controls 1.1.0 and the Drippy Loading Screen early window module (both client only) drive the title music and the early loading window
 - **Heads-up (claims):** Lightman's Currency x FTB Hook 4.5.1 - free chunks are now only free to *claim*; they pay protection upkeep like every other chunk. Until now the first free chunks of a team were also left out of the upkeep bill
 - Create: Aeronautics Toolgun 0.3.7, Collective 8.72, Leaky 3.7, Sophisticated Backpacks 3.26.19 / Core 1.5.23
 - Chunk Activity Tracker removed (library mod nothing in the pack used)
