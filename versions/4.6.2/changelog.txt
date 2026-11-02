@@ -1,0 +1,11 @@
+## 4.6.2
+
+Dynamic lighting and Sable tooltips - three client-side mods, no server changes.
+
+- **New: LambDynamicLights 4.8.11** - held torches, glowing items, burning mobs and the like light up their surroundings. Configurable in the mod's settings if you want it cheaper
+- **New: Sable Dynamic Lights 1.0.0** - the dynamic light sources also work on moving Create and Sable contraptions
+- **New: Sable Jade 1.3.0** - Jade tooltips show physics info for Sable blocks and contraptions
+- All three run on the client only; the server is unchanged, no restart needed
+
+### Mods
+- **New:** `lambdynamiclights-4.8.11+1.21.1.jar`, `sable-dynamic-lights-1.21.1-1.0.0.jar`, `sablejade-1.3.0.jar`
