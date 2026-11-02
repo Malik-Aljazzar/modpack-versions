@@ -1,0 +1,24 @@
+## 4.6.4
+
+Fix for the disconnect right after joining, plus everything from 4.6.2 and 4.6.3 (those two versions never went live on CurseForge). **You need this version to join the server** - the server already runs this mod set, older pack versions are turned away at login.
+
+- **Fixed: "Network Protocol Error" right after joining.** Chunky was removed from the client. Distant Horizons hooks into Chunky whenever it is installed, but Chunky only starts together with a server, so the first chunk you received threw an error and disconnected you once per game start. Chunky stays on the server, where it pre-generates the world
+- Framework is downloaded from CurseForge again instead of being bundled inside the pack
+
+### From 4.6.3 - performance cleanup
+- **Removed: KubeJS, KubeJS Create and Rhino.** Its built-in local web server ran in a busy loop as long as the game was open: one CPU core at 100 % plus roughly 50 MB/s of garbage for the Java garbage collector. Without it the game stutters less, most noticeably on laptops and CPUs with few cores
+- **Removed unused libraries:** Collective, CreativeCore, Caelus API, Berezka API, Bad Packets, flib, MaFgLib, Prism, Temporal API, LDLib and Forge Config API Port - no mod in the pack needs them any more
+- **Removed: Sinytra Connector** - the pack no longer contains any Fabric-only mod
+- **Removed: Not Enough Animations** together with EMF Compat: Not Enough Animations
+- **Removed: Snow Under Trees.** Snow already lying under trees stays; newly generated chunks no longer get snow under trees
+- **New: Colorwheel 1.3.1** - lets Iris shader packs work with Flywheel, the renderer Create uses for moving parts and contraptions
+
+### From 4.6.2 - dynamic lighting
+- **New: LambDynamicLights 4.8.11** - held torches, glowing items, burning mobs and the like light up their surroundings. Configurable in the mod's settings if you want it cheaper
+- **New: Sable Dynamic Lights 1.0.0** - the dynamic light sources also work on moving Create and Sable contraptions
+- **New: Sable Jade 1.3.0** - Jade tooltips show physics info for Sable blocks and contraptions
+
+No world changes; no items, blocks or recipes are affected. The server is not restarted for this version.
+
+### Mods
+- **Removed:** `Chunky-NeoForge-1.4.23.jar`
