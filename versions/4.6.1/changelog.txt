@@ -1,0 +1,7 @@
+## 4.6.1
+
+Distant Horizons is now switched off by default; turn it on yourself if your PC can take it.
+
+- **Distant Horizons ships disabled.** It costs GPU and RAM, so everyone decides for themselves: open the DH settings (button next to the FOV slider in the video settings, or the `/dh` command) and turn on *Enable Rendering*. The server keeps generating and sending the distant terrain either way
+- From the next pack version on, `config/DistantHorizons.toml` is no longer part of the pack, so your DH settings survive future updates
+- Same mods as 4.6.0 (Distant Horizons 3.3.3, FTB Xaero Compat 1.4.0, ModernFix on the server, `maxThreads = 1` startup fix); no world changes; no server changes
