@@ -1,0 +1,14 @@
+## 4.6.0
+
+Distant Horizons joins the pack and the server, ModernFix now also runs on the server, FTB Xaero Compat update, startup race fix.
+
+- **New: Distant Horizons 3.3.3** - see terrain far beyond the normal render distance. The server generates the distant terrain (LODs) and sends it to you, so the far view fills in without your client having to explore it first. DH costs GPU and RAM; you can turn it off in the DH settings (button next to the FOV slider in the video settings, or the `/dh` command) under *Enable Rendering*
+- ModernFix is now on the server as well (shorter server start, lower memory use, assorted fixes). No change for the client, it was in the pack already
+- FTB Xaero Compat 1.4.0 (claim overlay on the Xaero maps)
+- `config/fml.toml`: mods are now constructed one at a time (`maxThreads = 1`). This removes a rare startup crash in Create 6.0.10 ("Trying to access unbound value: create:chocolate_bucket") caused by parallel mod construction; startup takes a few seconds longer
+- Server-side: Zeta Server Fixes 1.6.0 lets Distant Horizons boot next to Chunky (DH 3.3.3 crashed the server at the first chunk load, DH issue 1329)
+- No world changes
+
+### Mods
+- **New:** `DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar`
+- **Updated:** `ftbxaerocompat-neoforge-1.3.0-1.21.1.jar -> ftbxaerocompat-neoforge-1.4.0-1.21.1.jar`
